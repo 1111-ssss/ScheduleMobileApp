@@ -1,0 +1,202 @@
+{
+  "Иванова И.И.": [
+    {
+      "date": "2025-11-03",
+      "weekday": "Понедельник",
+      "teacher": "Иванова И.И.",
+      "lessons": [
+        {"order": 1, "startTime": "8:00", "endTime": "9:35", "subject": "Экономика организации (Б21)", "teacher": "Иванова И.И.", "classroom": "Каб. 409"},
+        {"order": 3, "startTime": "11:40", "endTime": "13:15", "subject": "История (П11)", "teacher": "Иванова И.И.", "classroom": "Каб. 101"}
+      ]
+    },
+    {
+      "date": "2025-11-04",
+      "weekday": "Вторник",
+      "teacher": "Иванова И.И.",
+      "lessons": [
+        {"order": 3, "startTime": "11:40", "endTime": "13:15", "subject": "Иностранный язык (Б21)", "teacher": "Иванова И.И.", "classroom": "Каб. 409"}
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "weekday": "Среда",
+      "teacher": "Иванова И.И.",
+      "lessons": [
+        {"order": 2, "startTime": "9:45", "endTime": "11:20", "subject": "Иностранный язык (Б12)", "teacher": "Иванова И.И.", "classroom": "Каб. 205"}
+      ]
+    }
+  ],
+  "Петров П.П.": [
+    {
+      "date": "2025-11-03",
+      "weekday": "Понедельник",
+      "teacher": "Петров П.П.",
+      "lessons": [
+        {"order": 2, "startTime": "9:45", "endTime": "11:20", "subject": "Бухгалтерский учёт (Б21)", "teacher": "Петров П.П.", "classroom": "Каб. 310"}
+      ]
+    },
+    {
+      "date": "2025-11-04",
+      "weekday": "Вторник",
+      "teacher": "Петров П.П.",
+      "lessons": [
+        {"order": 2, "startTime": "9:45", "endTime": "11:20", "subject": "Статистика (Б21)", "teacher": "Петров П.П.", "classroom": "Каб. 310"},
+        {"order": 3, "startTime": "11:40", "endTime": "13:15", "subject": "Иностранный язык (Б21)", "teacher": "Петров П.П.", "classroom": "Каб. 310"}
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "weekday": "Среда",
+      "teacher": "Петров П.П.",
+      "lessons": [
+        {"order": 2, "startTime": "9:45", "endTime": "11:20", "subject": "Аудит (Б21)", "teacher": "Петров П.П.", "classroom": "Каб. 310"}
+      ]
+    },
+    {
+      "date": "2025-11-06",
+      "weekday": "Четверг",
+      "teacher": "Петров П.П.",
+      "lessons": [
+        {"order": 2, "startTime": "9:45", "endTime": "11:20", "subject": "Аудит (Б21)", "teacher": "Петров П.П.", "classroom": "Каб. 310"}
+      ]
+    },
+    {
+      "date": "2025-11-08",
+      "weekday": "Суббота",
+      "teacher": "Петров П.П.",
+      "lessons": [
+        {"order": 2, "startTime": "9:45", "endTime": "11:20", "subject": "Логистика (Б21)", "teacher": "Петров П.П.", "classroom": "Каб. 310"}
+      ]
+    }
+  ],
+  "Сидорова А.В.": [
+    {
+      "date": "2025-11-03",
+      "weekday": "Понедельник",
+      "teacher": "Сидорова А.В.",
+      "lessons": [
+        {"order": 3, "startTime": "11:40", "endTime": "13:15", "subject": "Математика (Б21)", "teacher": "Сидорова А.В.", "classroom": "Каб. 409"},
+        {"order": 1, "startTime": "8:00", "endTime": "9:35", "subject": "Математика (Б12)", "teacher": "Сидорова А.В.", "classroom": "Каб. 205"}
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "weekday": "Среда",
+      "teacher": "Сидорова А.В.",
+      "lessons": [
+        {"order": 1, "startTime": "8:00", "endTime": "9:35", "subject": "Финансы (Б21)", "teacher": "Сидорова А.В.", "classroom": "Каб. 409"}
+      ]
+    },
+    {
+      "date": "2025-11-07",
+      "weekday": "Пятница",
+      "teacher": "Сидорова А.В.",
+      "lessons": [
+        {"order": 1, "startTime": "8:00", "endTime": "9:35", "subject": "Экономический анализ (Б21)", "teacher": "Сидорова А.В.", "classroom": "Каб. 409"}
+      ]
+    }
+  ],
+  "Козлов Д.Н.": [
+    {
+      "date": "2025-11-03",
+      "weekday": "Понедельник",
+      "teacher": "Козлов Д.Н.",
+      "lessons": [
+        {"order": 4, "startTime": "14:00", "endTime": "15:35", "subject": "Информационные технологии (Б21)", "teacher": "Козлов Д.Н.", "classroom": "Каб. 409"},
+        {"order": 2, "startTime": "9:45", "endTime": "11:20", "subject": "Информационные технологии (Б12)", "teacher": "Козлов Д.Н.", "classroom": "Каб. 205"}
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "weekday": "Среда",
+      "teacher": "Козлов Д.Н.",
+      "lessons": [
+        {"order": 2, "startTime": "9:45", "endTime": "11:20", "subject": "Менеджмент (Б21)", "teacher": "Козлов Д.Н.", "classroom": "Каб. 409"}
+      ]
+    },
+    {
+      "date": "2025-11-06",
+      "weekday": "Четверг",
+      "teacher": "Козлов Д.Н.",
+      "lessons": [
+        {"order": 3, "startTime": "11:40", "endTime": "13:15", "subject": "Физкультура (Б21)", "teacher": "Козлов Д.Н.", "classroom": "Спортзал"}
+      ]
+    },
+    {
+      "date": "2025-11-08",
+      "weekday": "Суббота",
+      "teacher": "Козлов Д.Н.",
+      "lessons": [
+        {"order": 1, "startTime": "8:00", "endTime": "9:35", "subject": "Маркетинг (Б21)", "teacher": "Козлов Д.Н.", "classroom": "Каб. 409"}
+      ]
+    }
+  ],
+  "Михайлова Е.С.": [
+    {
+      "date": "2025-11-03",
+      "weekday": "Понедельник",
+      "teacher": "Михайлова Е.С.",
+      "lessons": [
+        {"order": 1, "startTime": "8:00", "endTime": "9:35", "subject": "Теория государства и права (П11)", "teacher": "Михайлова Е.С.", "classroom": "Каб. 101"}
+      ]
+    },
+    {
+      "date": "2025-11-04",
+      "weekday": "Вторник",
+      "teacher": "Михайлова Е.С.",
+      "lessons": [
+        {"order": 1, "startTime": "8:00", "endTime": "9:35", "subject": "Правоведение (Б21)", "teacher": "Михайлова Е.С.", "classroom": "Каб. 409"}
+      ]
+    },
+    {
+      "date": "2025-11-05",
+      "weekday": "Среда",
+      "teacher": "Михайлова Е.С.",
+      "lessons": [
+        {"order": 3, "startTime": "11:40", "endTime": "13:15", "subject": "Белорусский язык (Б21)", "teacher": "Михайлова Е.С.", "classroom": "Каб. 409"}
+      ]
+    },
+    {
+      "date": "2025-11-07",
+      "weekday": "Пятница",
+      "teacher": "Михайлова Е.С.",
+      "lessons": [
+        {"order": 2, "startTime": "9:45", "endTime": "11:20", "subject": "Документационное обеспечение (Б21)", "teacher": "Михайлова Е.С.", "classroom": "Каб. 409"}
+      ]
+    }
+  ],
+  "Новиков А.А.": [
+    {
+      "date": "2025-11-03",
+      "weekday": "Понедельник",
+      "teacher": "Новиков А.А.",
+      "lessons": [
+        {"order": 2, "startTime": "9:45", "endTime": "11:20", "subject": "Конституционное право (П11)", "teacher": "Новиков А.А.", "classroom": "Каб. 101"}
+      ]
+    },
+    {
+      "date": "2025-11-04",
+      "weekday": "Вторник",
+      "teacher": "Новиков А.А.",
+      "lessons": [
+        {"order": 2, "startTime": "9:45", "endTime": "11:20", "subject": "Статистика (Б21)", "teacher": "Новиков А.А.", "classroom": "Каб. 310"}
+      ]
+    },
+    {
+      "date": "2025-11-06",
+      "weekday": "Четверг",
+      "teacher": "Новиков А.А.",
+      "lessons": [
+        {"order": 1, "startTime": "8:00", "endTime": "9:35", "subject": "Налогообложение (Б21)", "teacher": "Новиков А.А.", "classroom": "Каб. 409"}
+      ]
+    },
+    {
+      "date": "2025-11-07",
+      "weekday": "Пятница",
+      "teacher": "Новиков А.А.",
+      "lessons": [
+        {"order": 3, "startTime": "11:40", "endTime": "13:15", "subject": "Охрана труда (Б21)", "teacher": "Новиков А.А.", "classroom": "Каб. 409"}
+      ]
+    }
+  ]
+}
