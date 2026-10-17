@@ -1,4 +1,3 @@
-import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
@@ -33,6 +32,10 @@ void main() {
     SharedPreferences.setMockInitialValues({});
     final deps = await AppDependencies.create();
     await t.pumpWidget(AppScope(deps: deps, child: const ScheduleApp()));
+    // Seed читается из assets настоящим I/O, поэтому даём загрузке время
+    // вне fake-async: пока данные грузятся, на экране спиннер,
+    // из-за которого pumpAndSettle без этого не дожидается контента.
+    await t.runAsync(() => Future<void>.delayed(const Duration(seconds: 1)));
     await t.pumpAndSettle();
 
     expect(find.text('Расписание колледжа'), findsOneWidget);

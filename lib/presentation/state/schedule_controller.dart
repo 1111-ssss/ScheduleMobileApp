@@ -46,9 +46,10 @@ final class ScheduleController extends ChangeNotifier {
   String selectedTeacher = '';
   String teacherQuery = '';
 
-  /// Seed покрывает неделю с 03.11.2025 — стартуем с неё, чтобы демо
-  /// открывалось с данными. Навигация стрелками ходит по любым неделям.
-  DateTime weekStart = DateTime(2025, 11, 3);
+  /// Seed покрывает неделю с 05.10.2026 (и отдельные дни 18.09.2026,
+  /// 02.10.2026) — стартуем с неё, чтобы демо открывалось с данными.
+  /// Навигация стрелками ходит по любым неделям.
+  DateTime weekStart = DateTime(2026, 10, 5);
   int selectedDayIndex = 0;
 
   List<DaySchedule> week = const [];

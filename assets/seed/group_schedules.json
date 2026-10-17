@@ -1,98 +1,6046 @@
 {
-  "Б21": [
+  "Б11": [
     {
-      "date": "2025-11-03",
-      "weekday": "Понедельник",
-      "group": "Б21",
-      "lessons": [
-        {"order": 1, "startTime": "8:00", "endTime": "9:35", "subject": "Экономика организации / Экономика организации", "teacher": "Иванова И.И. / Иванова И.И.", "classroom": "Каб. 409 / Каб. 310"},
-        {"order": 2, "startTime": "9:45", "endTime": "11:20", "subject": "Бухгалтерский учёт / Бухгалтерский учёт", "teacher": "Петров П.П. / Петров П.П.", "classroom": "Каб. 409 / Каб. 310"},
-        {"order": 3, "startTime": "11:40", "endTime": "13:15", "subject": "Математика / Математика", "teacher": "Сидорова А.В. / Сидорова А.В.", "classroom": "Каб. 409 / Каб. 310"},
-        {"order": 4, "startTime": "14:00", "endTime": "15:35", "subject": "Информационные технологии / Информационные технологии", "teacher": "Козлов Д.Н. / Козлов Д.Н.", "classroom": "Каб. 409 / Каб. 310"}
-      ]
-    },
-    {
-      "date": "2025-11-04",
-      "weekday": "Вторник",
-      "group": "Б21",
-      "lessons": [
-        {"order": 1, "startTime": "8:00", "endTime": "9:35", "subject": "Правоведение / Правоведение", "teacher": "Михайлова Е.С. / Михайлова Е.С.", "classroom": "Каб. 409 / Каб. 310"},
-        {"order": 2, "startTime": "9:45", "endTime": "11:20", "subject": "Статистика / Статистика", "teacher": "Новиков А.А. / Новиков А.А.", "classroom": "Каб. 409 / Каб. 310"},
-        {"order": 3, "startTime": "11:40", "endTime": "13:15", "subject": "Иностранный язык / Иностранный язык", "teacher": "Иванова И.И. / Петров П.П.", "classroom": "Каб. 409 / Каб. 310"}
-      ]
-    },
-    {
-      "date": "2025-11-05",
-      "weekday": "Среда",
-      "group": "Б21",
-      "lessons": [
-        {"order": 1, "startTime": "8:00", "endTime": "9:35", "subject": "Финансы / Финансы", "teacher": "Сидорова А.В. / Сидорова А.В.", "classroom": "Каб. 409 / Каб. 310"},
-        {"order": 2, "startTime": "9:45", "endTime": "11:20", "subject": "Менеджмент / Менеджмент", "teacher": "Козлов Д.Н. / Козлов Д.Н.", "classroom": "Каб. 409 / Каб. 310"},
-        {"order": 3, "startTime": "11:40", "endTime": "13:15", "subject": "Белорусский язык / Белорусский язык", "teacher": "Михайлова Е.С. / Михайлова Е.С.", "classroom": "Каб. 409 / Каб. 310"}
-      ]
-    },
-    {
-      "date": "2025-11-06",
-      "weekday": "Четверг",
-      "group": "Б21",
-      "lessons": [
-        {"order": 1, "startTime": "8:00", "endTime": "9:35", "subject": "Налогообложение / Налогообложение", "teacher": "Новиков А.А. / Новиков А.А.", "classroom": "Каб. 409 / Каб. 310"},
-        {"order": 2, "startTime": "9:45", "endTime": "11:20", "subject": "Аудит / Аудит", "teacher": "Петров П.П. / Петров П.П.", "classroom": "Каб. 409 / Каб. 310"},
-        {"order": 3, "startTime": "11:40", "endTime": "13:15", "subject": "Физкультура / Физкультура", "teacher": "Козлов Д.Н. / Козлов Д.Н.", "classroom": "Спортзал / Спортзал"},
-        {"order": 4, "startTime": "14:00", "endTime": "15:35", "subject": "История / История", "teacher": "Иванова И.И. / Иванова И.И.", "classroom": "Каб. 409 / Каб. 310"}
-      ]
-    },
-    {
-      "date": "2025-11-07",
+      "date": "2026-09-18",
       "weekday": "Пятница",
-      "group": "Б21",
+      "group": "Б11",
       "lessons": [
-        {"order": 1, "startTime": "8:00", "endTime": "9:35", "subject": "Экономический анализ / Экономический анализ", "teacher": "Сидорова А.В. / Сидорова А.В.", "classroom": "Каб. 409 / Каб. 310"},
-        {"order": 2, "startTime": "9:45", "endTime": "11:20", "subject": "Документационное обеспечение / Документационное обеспечение", "teacher": "Михайлова Е.С. / Михайлова Е.С.", "classroom": "Каб. 409 / Каб. 310"},
-        {"order": 3, "startTime": "11:40", "endTime": "13:15", "subject": "Охрана труда / Охрана труда", "teacher": "Новиков А.А. / Новиков А.А.", "classroom": "Каб. 409 / Каб. 310"},
-        {"order": 4, "startTime": "14:00", "endTime": "15:35", "subject": "Предмет / Предмет", "teacher": "Фамилия И.О. / Фамилия И.О.", "classroom": "Каб. 409 / Каб. 310"},
-        {"order": 5, "startTime": "15:45", "endTime": "17:20", "subject": "Предмет / Предмет", "teacher": "Фамилия И.О. / Фамилия И.О.", "classroom": "Каб. 409 / Каб. 310"}
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Белорусская литература",
+          "teacher": "Минченко С.В.",
+          "classroom": "Каб. 306"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Биология",
+          "teacher": "Кротенок В.И.",
+          "classroom": "Каб. 206"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "География",
+          "teacher": "Казьянина Е.В.",
+          "classroom": "Каб. 105"
+        }
       ]
     },
     {
-      "date": "2025-11-08",
-      "weekday": "Суббота",
-      "group": "Б21",
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "Б11",
       "lessons": [
-        {"order": 1, "startTime": "8:00", "endTime": "9:35", "subject": "Маркетинг / Маркетинг", "teacher": "Козлов Д.Н. / Козлов Д.Н.", "classroom": "Каб. 409 / Каб. 310"},
-        {"order": 2, "startTime": "9:45", "endTime": "11:20", "subject": "Логистика / Логистика", "teacher": "Петров П.П. / Петров П.П.", "classroom": "Каб. 409 / Каб. 310"},
-        {"order": 3, "startTime": "11:40", "endTime": "13:15", "subject": "Этика / Этика", "teacher": "Иванова И.И. / Иванова И.И.", "classroom": "Каб. 409 / Каб. 310"}
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "География",
+          "teacher": "Казьянина Е.В.",
+          "classroom": "Каб. 105"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Белорусская литература",
+          "teacher": "Минченко С.В.",
+          "classroom": "Каб. 306"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Основы социализации личности",
+          "teacher": "Балтрук Е.Г.",
+          "classroom": "Каб. 310"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "Б11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Математика",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Русская литература",
+          "teacher": "Арестова О.В.",
+          "classroom": "Каб. 102"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "История Беларуси",
+          "teacher": "Лебедев А.М.",
+          "classroom": "Каб. 307"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "Б11",
+      "lessons": [
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Математика",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Физика",
+          "teacher": "Филипчик И.Е.",
+          "classroom": "Каб. 411"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "История Беларуси",
+          "teacher": "Лебедев А.М.",
+          "classroom": "Каб. 407"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "Б11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "История Беларуси",
+          "teacher": "Лебедев А.М.",
+          "classroom": "Каб. 407"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "География",
+          "teacher": "Казьянина Е.В.",
+          "classroom": "Каб. 105"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Математика",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "Б11",
+      "lessons": [
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Информатика",
+          "teacher": "Борисенко Е.В./Симанович Ю.Д.",
+          "classroom": "Каб. 304/308"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Белорусская литература",
+          "teacher": "Минченко С.В.",
+          "classroom": "Каб. 14"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Математика",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "Б11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Русская литература",
+          "teacher": "Арестова О.В.",
+          "classroom": "Каб. 102"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "География",
+          "teacher": "Казьянина Е.В.",
+          "classroom": "Каб. 105"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Математика",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "История Беларуси",
+          "teacher": "Лебедев А.М.",
+          "classroom": "Каб. 411"
+        }
       ]
     }
   ],
-  "Б12": [
+  "Б21": [
     {
-      "date": "2025-11-03",
-      "weekday": "Понедельник",
-      "group": "Б12",
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "Б21",
       "lessons": [
-        {"order": 1, "startTime": "8:00", "endTime": "9:35", "subject": "Математика / Математика", "teacher": "Сидорова А.В. / Сидорова А.В.", "classroom": "Каб. 205 / Каб. 206"},
-        {"order": 2, "startTime": "9:45", "endTime": "11:20", "subject": "Информационные технологии / Информационные технологии", "teacher": "Козлов Д.Н. / Козлов Д.Н.", "classroom": "Каб. 205 / Каб. 206"}
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Астрономия",
+          "teacher": "Кунцевич И.В.",
+          "classroom": "Каб. 206"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Физическая культура",
+          "teacher": "Ясюк А.М./Григорович А.Т.",
+          "classroom": ""
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ТБУ/Основы права",
+          "teacher": "Леоник О.В./Левина А.И.",
+          "classroom": "Каб. 404/301"
+        }
       ]
     },
     {
-      "date": "2025-11-04",
-      "weekday": "Вторник",
-      "group": "Б12",
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "Б21",
       "lessons": [
-        {"order": 1, "startTime": "8:00", "endTime": "9:35", "subject": "Экономика организации / Экономика организации", "teacher": "Иванова И.И. / Иванова И.И.", "classroom": "Каб. 205 / Каб. 206"}
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "Б21",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "Б21",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "Б21",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "Б21",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "Б21",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    }
+  ],
+  "Б22": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "Б22",
+      "lessons": [
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Введение в специальность",
+          "teacher": "Михеенко И.Н.",
+          "classroom": "Каб. 411"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Защита населения",
+          "teacher": "Шахновский Л.П.",
+          "classroom": "Каб. 14"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Физическая культура",
+          "teacher": "Парчинский С.А./Григорович А.Т.",
+          "classroom": ""
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Основы предпринимательства",
+          "teacher": "Леоник О.В.",
+          "classroom": "Каб. 404"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "Б22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "Б22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "Б22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "Б22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "Б22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "Б22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    }
+  ],
+  "Б31": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "Б31",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Ермолаева Е.Л./Петридис Н.Г.",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "Б31",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Ермолаева Е.Л./Петридис Н.Г.",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "Б31",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Ермолаева Е.Л./Петридис Н.Г.",
+          "classroom": "Каб. А1"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Физическая культура",
+          "teacher": "Пекленок А.Ф./Григорович А.Т.",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "Б31",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "АХД",
+          "teacher": "Леоник О.В.",
+          "classroom": "Каб. 306"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "4-6 УП \"Получ. квал. рабочего\"",
+          "teacher": "Ермолаева Е.Л./Петридис Н.Г.",
+          "classroom": "Каб. А1"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "Б31",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Ермолаева Е.Л./Петридис Н.Г.",
+          "classroom": "Каб. А1"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Физическая культура",
+          "teacher": "Григорович А.Т./Пекленок А.Ф.",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "Б31",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Ермолаева Е.Л./Петридис Н.Г.",
+          "classroom": "Каб. А1"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "АХД",
+          "teacher": "Леоник О.В.",
+          "classroom": "Каб. 11"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "Б31",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "4-6 УП \"Получ. квал. рабочего\"",
+          "teacher": "Ермолаева Е.Л./Петридис Н.Г.",
+          "classroom": "Каб. А1"
+        }
+      ]
+    }
+  ],
+  "Б32": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "Б32",
+      "lessons": [
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Проверка и контроль",
+          "teacher": "Козлова Ж.В.",
+          "classroom": "Каб. 405"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Бух.учет/Налогообложение",
+          "teacher": "Демина Т.Н./Михеенко И.Н.",
+          "classroom": "Каб. 407/411"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Налогообложение",
+          "teacher": "Михеенко И.Н.",
+          "classroom": "Каб. 411"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "Б32",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "4-6 УП \"Получ. квал. рабочего\"",
+          "teacher": "Демина Т.Н./Леоник О.В.",
+          "classroom": "Каб. А1"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "Б32",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Демина Т.Н./Леоник О.В.",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "Б32",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Демина Т.Н./Леоник О.В.",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "Б32",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Демина Т.Н./Леоник О.В.",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "Б32",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Демина Т.Н./Леоник О.В.",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "Б32",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Демина Т.Н./Леоник О.В.",
+          "classroom": ""
+        }
+      ]
+    }
+  ],
+  "Л11": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "Л11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Физика",
+          "teacher": "Филипчик И.Е.",
+          "classroom": "Каб. 311"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Иностранный язык",
+          "teacher": "Гринкевич О.В./Медведская В.В.",
+          "classroom": "Каб. 408/101"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Математика",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "Л11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Белорусская литература",
+          "teacher": "Минченко С.В.",
+          "classroom": "Каб. 306"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Иностранный язык",
+          "teacher": "Гринкевич О.В./Медведская В.В.",
+          "classroom": "Каб. 408/101"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Математика",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "Л11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Информатика",
+          "teacher": "Шунто М.И./Симанович Ю.Д.",
+          "classroom": "Каб. 310/208"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "История Беларуси",
+          "teacher": "Лебедев А.М.",
+          "classroom": "Каб. 307"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Математика",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "Л11",
+      "lessons": [
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Русский язык",
+          "teacher": "Арестова О.В.",
+          "classroom": "Каб. 102"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Русская литература",
+          "teacher": "Арестова О.В.",
+          "classroom": "Каб. 102"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Введение в специальность",
+          "teacher": "Непочелович Т.С.",
+          "classroom": "Каб. 105"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "Л11",
+      "lessons": [
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "История Беларуси",
+          "teacher": "Лебедев А.М.",
+          "classroom": "Каб. 407"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Русский язык",
+          "teacher": "Арестова О.В.",
+          "classroom": "Каб. 102"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Математика",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "Л11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "География",
+          "teacher": "Казьянина Е.В.",
+          "classroom": "Каб. 105"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Математика",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Биология",
+          "teacher": "Казьянина Е.В.",
+          "classroom": "Каб. 105"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "Л11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "История Беларуси",
+          "teacher": "Лебедев А.М.",
+          "classroom": "Каб. 404"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Белорусская литература",
+          "teacher": "Минченко С.В.",
+          "classroom": "Каб. 305"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Информатика",
+          "teacher": "Шунто М.И./Симанович Ю.Д.",
+          "classroom": "Каб. 308/409"
+        }
+      ]
+    }
+  ],
+  "Л12": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "Л12",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Иностранный язык",
+          "teacher": "Шарстук И.С./Точило Т.С.",
+          "classroom": "Каб. 412/108"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Введение в специальность",
+          "teacher": "Петридис Н.Г.",
+          "classroom": "Каб. 11"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Математика",
+          "teacher": "Морхат А.Ю.",
+          "classroom": "Каб. 102"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "Л12",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Введение в специальность",
+          "teacher": "Петридис Н.Г.",
+          "classroom": "Каб. 11"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Иностранный язык",
+          "teacher": "Шарстук И.С./Точило Т.С.",
+          "classroom": "Каб. 412/108"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Математика",
+          "teacher": "Морхат А.Ю.",
+          "classroom": "Каб. 306"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "Л12",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Биология",
+          "teacher": "Казьянина Е.В.",
+          "classroom": "Каб. 105"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Основы социализации",
+          "teacher": "Балтрук Е.Г.",
+          "classroom": "Каб. 209"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Иностранный язык",
+          "teacher": "Шарстук И.С./Точило Т.С.",
+          "classroom": "Каб. 412/108"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "Л12",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Математика",
+          "teacher": "Морхат А.Ю.",
+          "classroom": "Каб. 105"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Физика",
+          "teacher": "Филипчик И.Е.",
+          "classroom": "Каб. 404"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Иностранный язык",
+          "teacher": "Шарстук И.С./Точило Т.С.",
+          "classroom": "Каб. 412/108"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "Л12",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "География",
+          "teacher": "Казьянина Е.В.",
+          "classroom": "Каб. 105"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Русский язык",
+          "teacher": "Арестова О.В.",
+          "classroom": "Каб. 102"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Иностранный язык",
+          "teacher": "Шарстук И.С./Точило Т.С.",
+          "classroom": "Каб. 412/108"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "Л12",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "История Беларуси",
+          "teacher": "Лебедев А.М.",
+          "classroom": "Каб. 407"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Русская литература",
+          "teacher": "Арестова О.В.",
+          "classroom": "Каб. 102"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Иностранный язык",
+          "teacher": "Шарстук И.С./Точило Т.С.",
+          "classroom": "Каб. 412/108"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Математика",
+          "teacher": "Морхат А.Ю.",
+          "classroom": "Каб. 102"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "Л12",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "География",
+          "teacher": "Казьянина Е.В.",
+          "classroom": "Каб. 105"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Русский язык",
+          "teacher": "Арестова О.В.",
+          "classroom": "Каб. 102"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Иностранный язык",
+          "teacher": "Шарстук И.С./Точило Т.С.",
+          "classroom": "Каб. 412/108"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Математика",
+          "teacher": "Морхат А.Ю.",
+          "classroom": "Каб. 105"
+        }
+      ]
+    }
+  ],
+  "Л21": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "Л21",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "Л21",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Основы менеджмента",
+          "teacher": "Кунцевич И.В.",
+          "classroom": "Каб. 206"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Оборудование хранилищ",
+          "teacher": "Петридис Н.Г.",
+          "classroom": "Каб. 11"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Иностранный язык",
+          "teacher": "Шарстук И.С./Медведская В.В.",
+          "classroom": "Каб. 311/101"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "Л21",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Основы менеджмента",
+          "teacher": "Кунцевич И.В.",
+          "classroom": "Каб. 206"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Логистика",
+          "teacher": "Петкевич В.Э.",
+          "classroom": "Каб. 305"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ОИСиИД",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "УП \"Комплектовщик\"",
+          "teacher": "Петридис Н.Г.",
+          "classroom": "Каб. 11"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "УП \"Комплектовщик\"",
+          "teacher": "Петридис Н.Г.",
+          "classroom": "Каб. 11"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "Л21",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Астрономия",
+          "teacher": "Кунцевич И.В.",
+          "classroom": "Каб. 206"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Экономика организации",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Стандартизация и сертификация",
+          "teacher": "Петридис Н.Г.",
+          "classroom": "Каб. 11"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "ОИСНиД",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "Л21",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Основы менеджмента",
+          "teacher": "Кунцевич И.В.",
+          "classroom": "Каб. 206"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Логистика",
+          "teacher": "Петкевич В.Э.",
+          "classroom": "Каб. 401"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Физическая культура",
+          "teacher": "Ясюк А.М./Григорович А.Т.",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "Л21",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Астрономия",
+          "teacher": "Кунцевич И.В.",
+          "classroom": "Каб. 206"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Логистика",
+          "teacher": "Петкевич В.Э.",
+          "classroom": "Каб. 306"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ОИСиИД",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "Л21",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Основы менеджмента",
+          "teacher": "Кунцевич И.В.",
+          "classroom": "Каб. 206"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "ОИСиИД",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ЭМММ/Эконом.организации",
+          "teacher": "Стукан Н.М./Головач О.Ф.",
+          "classroom": "Каб. 408/406"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "-/ЭМММ",
+          "teacher": "Стукан Н.М.",
+          "classroom": "Каб. -/408"
+        }
+      ]
+    }
+  ],
+  "Л22": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "Л22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "Л22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "ОНСиИД",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Основы менеджмента",
+          "teacher": "Кунцевич И.В.",
+          "classroom": "Каб. 206"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Иностранный язык",
+          "teacher": "Гринкевич О.В./Точило Т.С.",
+          "classroom": "Каб. 408/108"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "Л22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "ОИСиИД",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Основы менеджмента",
+          "teacher": "Кунцевич И.В.",
+          "classroom": "Каб. 206"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Логистика",
+          "teacher": "Петкевич В.Э.",
+          "classroom": "Каб. 305"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "Л22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Экономика организации",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Астрономия",
+          "teacher": "Кунцевич И.В.",
+          "classroom": "Каб. 206"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ОИСНиД",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "Л22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Логистика",
+          "teacher": "Петкевич В.Э.",
+          "classroom": "Каб. 401"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Основы менеджмента",
+          "teacher": "Кунцевич И.В.",
+          "classroom": "Каб. 206"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Экономика организации",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "Л22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Логистика",
+          "teacher": "Петкевич В.Э.",
+          "classroom": "Каб. 306"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Астрономия",
+          "teacher": "Кунцевич И.В.",
+          "classroom": "Каб. 206"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ЭМММ",
+          "teacher": "Стукан Н.М.",
+          "classroom": "Каб. 409"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "Л22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "ЭМММ",
+          "teacher": "Стукан Н.М.",
+          "classroom": "Каб. 307"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Основы менеджмента",
+          "teacher": "Кунцевич И.В.",
+          "classroom": "Каб. 206"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Товароведение",
+          "teacher": "Петридис Н.Г.",
+          "classroom": "Каб. 11"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "ОИСиИД",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        }
+      ]
+    }
+  ],
+  "Л31": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "Л31",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Непочелович Т.С./Аблам И.М.",
+          "classroom": "Каб. 409/308"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "Л31",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Непочелович Т.С./Петкевич В.Э.",
+          "classroom": "Каб. А1"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "Л31",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "4-6 УП \"Получ. квал. рабочего\"",
+          "teacher": "Непочелович Т.С./Петкевич В.Э.",
+          "classroom": "Каб. А1"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "Л31",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Непочелович Т.С./Петкевич В.Э.",
+          "classroom": "Каб. А1"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Основы предпринимательства",
+          "teacher": "Леоник О.В.",
+          "classroom": "Каб. 304"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Распр.и транспорт.логистика",
+          "teacher": "Петкевич В.Э.",
+          "classroom": "Каб. 411"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "Л31",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "4-6 УП \"Получ. квал. рабочего\"",
+          "teacher": "Непочелович Т.С./Петкевич В.Э.",
+          "classroom": "Каб. А1"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "Л31",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Распр.и транспорт.логистика/-",
+          "teacher": "Петкевич В.Э.",
+          "classroom": "Каб. 306"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "4-6 УП \"Получ. квал. рабочего\"",
+          "teacher": "Непочелович Т.С./Петкевич В.Э.",
+          "classroom": "Каб. А1"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "Л31",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Непочелович Т.С./Петкевич В.Э.",
+          "classroom": "Каб. А1"
+        }
+      ]
+    }
+  ],
+  "Л32": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "Л32",
+      "lessons": [
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Белорусский язык",
+          "teacher": "Минченко С.В.",
+          "classroom": "Каб. 306"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Маркетинг",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 311"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Основы предпринимательства",
+          "teacher": "Леоник О.В.",
+          "classroom": "Каб. 404"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "Л32",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Ермолаева Е.Л.",
+          "classroom": "Каб. 401"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "Л32",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "4-6 УП \"Получ. квал. рабочего\"",
+          "teacher": "Ермолаева Е.Л.",
+          "classroom": "Каб. 401"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "Л32",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Ермолаева Е.Л.",
+          "classroom": "Каб. 401"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Распр.и транспорт.логистика",
+          "teacher": "Петкевич В.Э.",
+          "classroom": "Каб. 409"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Основы предпринимательства",
+          "teacher": "Леоник О.В.",
+          "classroom": "Каб. 407"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "Л32",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Логистика складирования",
+          "teacher": "Петкевич В.Э.",
+          "classroom": "Каб. 401"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "4-6 УП \"Получ. квал. рабочего\"",
+          "teacher": "Ермолаева Е.Л.",
+          "classroom": "Каб. 401"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "Л32",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Основы предпринимательства",
+          "teacher": "Леоник О.В.",
+          "classroom": "Каб. 411"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "4-6 УП \"Получ. квал. рабочего\"",
+          "teacher": "Ермолаева Е.Л.",
+          "classroom": "Каб. 401"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "Л32",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Ермолаева Е.Л.",
+          "classroom": "Каб. 401"
+        }
       ]
     }
   ],
   "П11": [
     {
-      "date": "2025-11-03",
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "П11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Химия",
+          "teacher": "Кротенок В.И.",
+          "classroom": "Каб. 102"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Биология",
+          "teacher": "Казьянина Е.В.",
+          "classroom": "Каб. 105"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Информатика",
+          "teacher": "Шунто М.И./Парчинская М.Н.",
+          "classroom": "Каб. 11/208"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "П11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Белорусский язык",
+          "teacher": "Шунто И.Е.",
+          "classroom": "Каб. 209"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Химия",
+          "teacher": "Кротенок В.И.",
+          "classroom": "Каб. 307"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Белорусская литература",
+          "teacher": "Шунто И.Е.",
+          "classroom": "Каб. 209"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
       "weekday": "Понедельник",
       "group": "П11",
       "lessons": [
-        {"order": 1, "startTime": "8:00", "endTime": "9:35", "subject": "Теория государства и права / Теория государства и права", "teacher": "Михайлова Е.С. / Михайлова Е.С.", "classroom": "Каб. 101 / Каб. 102"},
-        {"order": 2, "startTime": "9:45", "endTime": "11:20", "subject": "Конституционное право / Конституционное право", "teacher": "Новиков А.А. / Новиков А.А.", "classroom": "Каб. 101 / Каб. 102"},
-        {"order": 3, "startTime": "11:40", "endTime": "13:15", "subject": "История / История", "teacher": "Иванова И.И. / Иванова И.И.", "classroom": "Каб. 101 / Каб. 102"}
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Русский язык",
+          "teacher": "Арестова О.В.",
+          "classroom": "Каб. 102"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Информатика",
+          "teacher": "Шунто М.И./Симанович Ю.Д.",
+          "classroom": "Каб. 310/208"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Математика",
+          "teacher": "Стукан Н.М.",
+          "classroom": "Каб. 301"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "П11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Физика",
+          "teacher": "Филипчик И.Е.",
+          "classroom": "Каб. 113"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "История Беларуси",
+          "teacher": "Лебедев А.М.",
+          "classroom": "Каб. 407"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Математика",
+          "teacher": "Стукан Н.М.",
+          "classroom": "Каб. 305"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "П11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Русский язык",
+          "teacher": "Арестова О.В.",
+          "classroom": "Каб. 102"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Введение в специальность",
+          "teacher": "Федорчук И.К.",
+          "classroom": "Каб. 304"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Математика",
+          "teacher": "Стукан Н.М.",
+          "classroom": "Каб. 411"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "П11",
+      "lessons": [
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Математика",
+          "teacher": "Стукан Н.М.",
+          "classroom": "Каб. 301"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Русская литература",
+          "teacher": "Арестова О.В.",
+          "classroom": "Каб. 102"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "История Беларуси",
+          "teacher": "Лебедев А.М.",
+          "classroom": "Каб. 407"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "П11",
+      "lessons": [
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Математика",
+          "teacher": "Стукан Н.М.",
+          "classroom": "Каб. 307"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "География",
+          "teacher": "Казьянина Е.В.",
+          "classroom": "Каб. 105"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Русская литература",
+          "teacher": "Арестова О.В.",
+          "classroom": "Каб. 102"
+        }
+      ]
+    }
+  ],
+  "П12": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "П12",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Иностранный язык",
+          "teacher": "Гринкевич О.В./Медведская В.В.",
+          "classroom": "Каб. 408/101"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Математика",
+          "teacher": "Морхат А.Ю.",
+          "classroom": "Каб. 102"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Информатика",
+          "teacher": "Готовская С.Б.",
+          "classroom": "Каб. 406"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "П12",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Химия",
+          "teacher": "Кротенок В.И.",
+          "classroom": "Каб. 307"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Русская литература",
+          "teacher": "Арестова О.В.",
+          "classroom": "Каб. 102"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Русский язык",
+          "teacher": "Арестова О.В.",
+          "classroom": "Каб. 102"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "П12",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Основы социализации личности",
+          "teacher": "Балтрук Е.Г.",
+          "classroom": "Каб. 209"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Математика",
+          "teacher": "Морхат А.Ю.",
+          "classroom": "Каб. 405"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Русская литература",
+          "teacher": "Арестова О.В.",
+          "classroom": "Каб. 102"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "П12",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Русская литература",
+          "teacher": "Арестова О.В.",
+          "classroom": "Каб. 102"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Математика",
+          "teacher": "Морхат А.Ю.",
+          "classroom": "Каб. 305"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Введение в специальность",
+          "teacher": "Федорчук И.К.",
+          "classroom": "Каб. 304"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "П12",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Введение в специальность",
+          "teacher": "Федорчук И.К.",
+          "classroom": "Каб. 304"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Математика",
+          "teacher": "Морхат А.Ю.",
+          "classroom": "Каб. 311"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Физическая культура",
+          "teacher": "Пекленок А.Ф.",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "П12",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Русская литература",
+          "teacher": "Арестова О.В.",
+          "classroom": "Каб. 102"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Математика",
+          "teacher": "Морхат А.Ю.",
+          "classroom": "Каб. 307"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "История Беларуси",
+          "teacher": "Лебедев А.М.",
+          "classroom": "Каб. 407"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "П12",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Информатика",
+          "teacher": "Готовская С.Б.",
+          "classroom": "Каб. 208"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "История Беларуси",
+          "teacher": "Лебедев А.М.",
+          "classroom": "Каб. 404"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Русская литература",
+          "teacher": "Арестова О.В.",
+          "classroom": "Каб. 102"
+        }
+      ]
+    }
+  ],
+  "П21": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "П21",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "4-6 УП \"Получ. квал. рабочего\"",
+          "teacher": "Симанович Ю.Д./Шунто М.И.",
+          "classroom": "Каб. 209/310"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "П21",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Математика",
+          "teacher": "Стукан Н.М.",
+          "classroom": "Каб. 407"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Теория вероятности",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Математика/ОАИП",
+          "teacher": "Стукан Н.М./Шунто М.И.",
+          "classroom": "Каб. 407/310"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "ОАИП/Математика",
+          "teacher": "Шунто М.И./Стукан Н.М.",
+          "classroom": "Каб. 310/407"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "П21",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ОАИП",
+          "teacher": "Шунто М.И.",
+          "classroom": "Каб. 310"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "ОАИП/Математика",
+          "teacher": "Шунто М.И./Стукан Н.М.",
+          "classroom": "Каб. 409/206"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "АЛОВТ",
+          "teacher": "Дегтярев П.И.",
+          "classroom": "Каб. 13"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "П21",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Теория вероятности",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Теория вероятности/Математика",
+          "teacher": "Партак И.В./Стукан Н.М.",
+          "classroom": "Каб. 113/301"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Математика/Теория вероятности",
+          "teacher": "Стукан Н.М./Партак И.В.",
+          "classroom": "Каб. 301/113"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Математика",
+          "teacher": "Стукан Н.М.",
+          "classroom": "Каб. 301"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "П21",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Математика/ОАИП",
+          "teacher": "Стукан Н.М./Шунто М.И.",
+          "classroom": "Каб. 411/310"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "ОАИП",
+          "teacher": "Шунто М.И.",
+          "classroom": "Каб. 310"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "АЛОВТ",
+          "teacher": "Дегтярев П.И.",
+          "classroom": "Каб. 13"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "П21",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "4-6 УП \"Получ. квал. рабочего\"",
+          "teacher": "Симанович Ю.Д./Шунто М.И.",
+          "classroom": "Каб. 209/310"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "П21",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "АЛОВТ",
+          "teacher": "Дегтярев П.И.",
+          "classroom": "Каб. 13"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "4-6 УП \"Получ. квал. рабочего\"",
+          "teacher": "Симанович Ю.Д./Шунто М.И.",
+          "classroom": "Каб. 209/310"
+        }
+      ]
+    }
+  ],
+  "П22": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "П22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Шунто И.Е./Кечко И.Л.",
+          "classroom": "Каб. 310/209"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "П22",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "АЛОВТ",
+          "teacher": "Дегтярев П.И.",
+          "classroom": "Каб. 13"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Математика/ОАИП",
+          "teacher": "Стукан Н.М./Готовская С.Б.",
+          "classroom": "Каб. 407/310"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Теория вероятности",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "П22",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "4-6 УП \"Получ. квал. рабочего\"",
+          "teacher": "Шунто И.Е./Кечко И.Л.",
+          "classroom": "Каб. 209/310"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "П22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Шунто И.Е./Кечко И.Л.",
+          "classroom": "Каб. 209/310"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "П22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Шунто И.Е./Кечко И.Л.",
+          "classroom": "Каб. 209/310"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "П22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Шунто И.Е./Кечко И.Л.",
+          "classroom": "Каб. 209/310"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "ОАИП/Математика",
+          "teacher": "Готовская С.Б./Стукан Н.М.",
+          "classroom": "Каб. 406/108"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "П22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Шунто И.Е./Кечко И.Л.",
+          "classroom": "Каб. 209/310"
+        }
+      ]
+    }
+  ],
+  "П23": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "П23",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "1-3 УП \"Получ. квал. рабочего\"",
+          "teacher": "Борисенко Е.В.",
+          "classroom": "Каб. 401"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "П23",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "П23",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "П23",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "П23",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "П23",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "П23",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    }
+  ],
+  "П31": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "П31",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ТРПО",
+          "teacher": "Бабахина А.В.",
+          "classroom": "Каб. 304"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "ТРПО/ТКиОК",
+          "teacher": "Бабахина А.В./Кечко И.Л.",
+          "classroom": "Каб. 401/304"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "ТКиОК/ТРПО",
+          "teacher": "Кечко И.Л./Бабахина А.В.",
+          "classroom": "Каб. 304/401"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "П31",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "П31",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "П31",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "П31",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "П31",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "П31",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    }
+  ],
+  "П32": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "П32",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "СУБД/ТРПО",
+          "teacher": "Федорчук И.К./Бабахина А.В.",
+          "classroom": "Каб. 208/304"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "ТРПО/СУБД",
+          "teacher": "Бабахина А.В./Федорчук И.К.",
+          "classroom": "Каб. 304/208"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Физическая культура",
+          "teacher": "Ясюк А.М./Парчинский С.А.",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "П32",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "П32",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "П32",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "П32",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "П32",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "П32",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    }
+  ],
+  "П33": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "П33",
+      "lessons": [
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Иностранный язык",
+          "teacher": "Шарстук И.С./Точило Т.С.",
+          "classroom": "Каб. 412/108"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Физическая культура",
+          "teacher": "Григорович А.Т.",
+          "classroom": ""
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "СУБД",
+          "teacher": "Борисенко Е.В.",
+          "classroom": "Каб. 308"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "П33",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "П33",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "П33",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "П33",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "П33",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "П33",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    }
+  ],
+  "П41": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "П41",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "АУДО",
+          "teacher": "Парчинская М.Н.",
+          "classroom": "Каб. 208"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Физическая культура",
+          "teacher": "Парчинский С.А./Григорович А.Т.",
+          "classroom": ""
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "ОИСиИД",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "П41",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Белорусский язык",
+          "teacher": "Минченко С.В.",
+          "classroom": "Каб. 409"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "СУБД/Веб-программирование",
+          "teacher": "Федорчук И.К./Бабахина А.В.",
+          "classroom": "Каб. 409/308"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Веб-программирование/СУБД",
+          "teacher": "Бабахина А.В./Федорчук И.К.",
+          "classroom": "Каб. 308/409"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Веб-программирование",
+          "teacher": "Бабахина А.В.",
+          "classroom": "Каб. 308"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "П41",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "ОИБ",
+          "teacher": "Шадурский А.В.",
+          "classroom": "Каб. 304"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Комп.сети/Предприн.деят.",
+          "teacher": "Шадурский А.В./Козлова Ж.В.",
+          "classroom": "Каб. 304/406"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "ПМС/Комп.сети",
+          "teacher": "Дегтярев П.И./Шадурский А.В.",
+          "classroom": "Каб. 13/304"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "П41",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Веб-программирование",
+          "teacher": "Бабахина А.В.",
+          "classroom": "Каб. 409"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "СУБД/Веб-программирование",
+          "teacher": "Федорчук И.К./Бабахина А.В.",
+          "classroom": "Каб. 408/310"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "АУДО",
+          "teacher": "Абибок Е.А.",
+          "classroom": "Каб. 208"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Физическая культура",
+          "teacher": "Парчинский С.А./Григорович А.Т.",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "П41",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Комп.сети",
+          "teacher": "Шадурский А.В.",
+          "classroom": "Каб. 208"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "АУДО/ПМС",
+          "teacher": "Абибок Е.А./Дегтярев П.И.",
+          "classroom": "Каб. 208/13"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "АУДО",
+          "teacher": "Абибок Е.А.",
+          "classroom": "Каб. 208"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "П41",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Физическая культура",
+          "teacher": "Парчинский С.А./Григорович А.Т.",
+          "classroom": ""
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "СУБД",
+          "teacher": "Федорчук И.К.",
+          "classroom": "Каб. 208"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "АУДО/ПМС",
+          "teacher": "Абибок Е.А./Дегтярев П.И.",
+          "classroom": "Каб. 208/13"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "ПМС/АУДО",
+          "teacher": "Дегтярев П.И./Абибок Е.А.",
+          "classroom": "Каб. 13/208"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "П41",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Веб-програм./Комп.сети",
+          "teacher": "Бабахина А.В./Шадурский А.В.",
+          "classroom": "Каб. 401/208"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Комп.сети/СУБД",
+          "teacher": "Шадурский А.В./Федорчук И.К.",
+          "classroom": "Каб. 208/406"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "СУБД",
+          "teacher": "Федорчук И.К.",
+          "classroom": "Каб. 406"
+        }
+      ]
+    }
+  ],
+  "П42": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "П42",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ПМС/Предприн.деятельность",
+          "teacher": "Дегтярев П.И./Козлова Ж.В.",
+          "classroom": "Каб. 13/405"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "ОИСиИД",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Предприн.деятельность/ПМС",
+          "teacher": "Козлова Ж.В./Дегтярев П.И.",
+          "classroom": "Каб. 405/13"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "П42",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "АУДО",
+          "teacher": "Абибок Е.А.",
+          "classroom": "Каб. 208"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "ОИБ",
+          "teacher": "Шадурский А.В.",
+          "classroom": "Каб. 304"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "АУДО/ПМС",
+          "teacher": "Абибок Е.А./Дегтярев П.И.",
+          "classroom": "Каб. 208/13"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "ПМС/АУДО",
+          "teacher": "Дегтярев П.И./Абибок Е.А.",
+          "classroom": "Каб. 13/208"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "П42",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Веб-программ./Предприн.деят.",
+          "teacher": "Бабахина А.В./Козлова Ж.В.",
+          "classroom": "Каб. 308/405"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Веб-программирование",
+          "teacher": "Бабахина А.В.",
+          "classroom": "Каб. 308"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Комп.сети",
+          "teacher": "Барило С.С.",
+          "classroom": "Каб. 208"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "П42",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Комп.сети",
+          "teacher": "Барило С.С.",
+          "classroom": "Каб. 308"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "ОИБ",
+          "teacher": "Шадурский А.В.",
+          "classroom": "Каб. 401"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Физическая культура",
+          "teacher": "Парчинский С.А./Пекленок А.Ф.",
+          "classroom": ""
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Веб-программирование",
+          "teacher": "Бабахина А.В.",
+          "classroom": "Каб. 310"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "П42",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Комп.сети",
+          "teacher": "Барило С.С.",
+          "classroom": "Каб. 308"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Белорусский язык",
+          "teacher": "Минченко С.В.",
+          "classroom": "Каб. 14"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "П42",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Веб-программирование",
+          "teacher": "Бабахина А.В.",
+          "classroom": "Каб. 308"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Белорусский язык",
+          "teacher": "Минченко С.В.",
+          "classroom": "Каб. 407"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Комп.сети",
+          "teacher": "Барило С.С.",
+          "classroom": "Каб. 308"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "П42",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Белорусский язык",
+          "teacher": "Минченко С.В.",
+          "classroom": "Каб. 11"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Веб-програм./Комп.сети",
+          "teacher": "Бабахина А.В./Барило С.С.",
+          "classroom": "Каб. 401/308"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Комп.сети/Веб-програм.",
+          "teacher": "Барило С.С./Бабахина А.В.",
+          "classroom": "Каб. 308/401"
+        }
+      ]
+    }
+  ],
+  "П43": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "П43",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Предприн.деятельность",
+          "teacher": "Козлова Ж.В.",
+          "classroom": "Каб. 405"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "ОИСиИД",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "ПМС",
+          "teacher": "Дегтярев П.И.",
+          "classroom": "Каб. 13"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "П43",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Веб-программирование",
+          "teacher": "Бабахина А.В.",
+          "classroom": "Каб. 308"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "АУДО",
+          "teacher": "Абибок Е.А.",
+          "classroom": "Каб. 208"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "СУБД",
+          "teacher": "Борисенко Е.В.",
+          "classroom": "Каб. 304"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "СУБД",
+          "teacher": "Борисенко Е.В.",
+          "classroom": "Каб. 304"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "П43",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Комп.сети",
+          "teacher": "Барило С.С.",
+          "classroom": "Каб. 208"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Физическая культура",
+          "teacher": "Пекленок А.Ф.",
+          "classroom": ""
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "ОИБ",
+          "teacher": "Барило С.С.",
+          "classroom": "Каб. 208"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "П43",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "АУДО",
+          "teacher": "Абибок Е.А.",
+          "classroom": "Каб. 208"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Комп.сети",
+          "teacher": "Барило С.С.",
+          "classroom": "Каб. 308"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "ОИБ",
+          "teacher": "Барило С.С.",
+          "classroom": "Каб. 308"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Физическая культура",
+          "teacher": "Пекленок А.Ф.",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "П43",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Белорусский язык",
+          "teacher": "Минченко С.В.",
+          "classroom": "Каб. 14"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Комп.сети",
+          "teacher": "Барило С.С.",
+          "classroom": "Каб. 308"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "ОИБ",
+          "teacher": "Барило С.С.",
+          "classroom": "Каб. 308"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "П43",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "ПМС",
+          "teacher": "Дегтярев П.И.",
+          "classroom": "Каб. 13"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "ОИБ",
+          "teacher": "Барило С.С.",
+          "classroom": "Каб. 308"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Веб-программирование",
+          "teacher": "Бабахина А.В.",
+          "classroom": "Каб. 304"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "П43",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "ОИБ",
+          "teacher": "Барило С.С.",
+          "classroom": "Каб. 308"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "ПМС",
+          "teacher": "Дегтярев П.И.",
+          "classroom": "Каб. 13"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Курсовое проектирование/-",
+          "teacher": "Козлова Ж.В.",
+          "classroom": "Каб. 409/-"
+        }
+      ]
+    }
+  ],
+  "Т11": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "Т11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Математика",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Физика",
+          "teacher": "Филипчик И.Е.",
+          "classroom": "Каб. 311"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Химия",
+          "teacher": "Кротенок В.И.",
+          "classroom": "Каб. 206"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "Т11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Иностранный язык",
+          "teacher": "Гринкевич О.В./Медведская В.В.",
+          "classroom": "Каб. 408/101"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "География",
+          "teacher": "Казьянина Е.В.",
+          "classroom": "Каб. 102"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Биология",
+          "teacher": "Казьянина Е.В.",
+          "classroom": "Каб. 102"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "Т11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "История Беларуси",
+          "teacher": "Лебедев А.М.",
+          "classroom": "Каб. 307"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Математика",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Биология",
+          "teacher": "Казьянина Е.В.",
+          "classroom": "Каб. 105"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "Т11",
+      "lessons": [
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Введение в специальность",
+          "teacher": "Казьянина Е.В.",
+          "classroom": "Каб. 105"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "История Беларуси",
+          "teacher": "Лебедев А.М.",
+          "classroom": "Каб. 407"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Физика",
+          "teacher": "Филипчик И.Е.",
+          "classroom": "Каб. 206"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "Т11",
+      "lessons": [
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Математика",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "География",
+          "teacher": "Казьянина Е.В.",
+          "classroom": "Каб. 105"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "История Беларуси",
+          "teacher": "Лебедев А.М.",
+          "classroom": "Каб. 407"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "Т11",
+      "lessons": [
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Введение в специальность",
+          "teacher": "Казьянина Е.В.",
+          "classroom": "Каб. 105"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Математика",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Русская литература",
+          "teacher": "Минченко С.В.",
+          "classroom": "Каб. 14"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "Т11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Русский язык",
+          "teacher": "Минченко С.В.",
+          "classroom": "Каб. 305"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Математика",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "История Беларуси",
+          "teacher": "Лебедев А.М.",
+          "classroom": "Каб. 208"
+        }
+      ]
+    }
+  ],
+  "Ю11": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "Ю11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "География",
+          "teacher": "Казьянина Е.В.",
+          "classroom": "Каб. 105"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Математика",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Русский язык",
+          "teacher": "Минченко С.В.",
+          "classroom": "Каб. 306"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "Ю11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Основы социализации личности",
+          "teacher": "Балтрук Е.Г.",
+          "classroom": "Каб. 113"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Белорусский язык",
+          "teacher": "Шунто И.Е.",
+          "classroom": "Каб. 209"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Химия",
+          "teacher": "Кротенок В.И.",
+          "classroom": "Каб. 411"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "Ю11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Введение в специальность",
+          "teacher": "Тюхлова Ю.В.",
+          "classroom": "Каб. 405"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "География",
+          "teacher": "Казьянина Е.В.",
+          "classroom": "Каб. 105"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Белорусский язык",
+          "teacher": "Шунто И.Е.",
+          "classroom": "Каб. 209"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "Ю11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "История Беларуси",
+          "teacher": "Лебедев А.М.",
+          "classroom": "Каб. 407"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Введение в специальность",
+          "teacher": "Тюхлова Ю.В.",
+          "classroom": "Каб. 405"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "География",
+          "teacher": "Казьянина Е.В.",
+          "classroom": "Каб. 105"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "Ю11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Математика",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Введение в специальность",
+          "teacher": "Тюхлова Ю.В.",
+          "classroom": "Каб. 208"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "История Беларуси",
+          "teacher": "Лебедев А.М.",
+          "classroom": "Каб. 407"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "Ю11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Математика",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "История Беларуси",
+          "teacher": "Лебедев А.М.",
+          "classroom": "Каб. 407"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Информатика",
+          "teacher": "Борисенко Е.В./Симанович Ю.Д.",
+          "classroom": "Каб. 304/308"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "Ю11",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Математика",
+          "teacher": "Партак И.В.",
+          "classroom": "Каб. 113"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Введение в специальность",
+          "teacher": "Тюхлова Ю.В.",
+          "classroom": "Каб. 301"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Русская литература",
+          "teacher": "Минченко С.В.",
+          "classroom": "Каб. 411"
+        }
+      ]
+    }
+  ],
+  "Ю21": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "Ю21",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "Ю21",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Конст.право/ОТП",
+          "teacher": "Могдалева И.Н./Жаворонкова Е.М.",
+          "classroom": "Каб. 301/305"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "ОТП/ИТ",
+          "teacher": "Жаворонкова Е.М./Абибок Е.А.",
+          "classroom": "Каб. 305/208"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Астрономия",
+          "teacher": "Кунцевич И.В.",
+          "classroom": "Каб. 206"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "Ю21",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Судоустройство",
+          "teacher": "Корчако Т.А.",
+          "classroom": "Каб. 311"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "ОИСиИД",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Астрономия",
+          "teacher": "Кунцевич И.В.",
+          "classroom": "Каб. 206"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "Ю21",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Конст.право",
+          "teacher": "Могдалева И.Н.",
+          "classroom": "Каб. 307"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Конст.право/ИТ",
+          "teacher": "Могдалева И.Н./Абибок Е.А.",
+          "classroom": "Каб. 307/208"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Астрономия",
+          "teacher": "Кунцевич И.В.",
+          "classroom": "Каб. 206"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "ИТ/-",
+          "teacher": "Абибок Е.А.",
+          "classroom": "Каб. 208"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "Ю21",
+      "lessons": [
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "ОИСиИД",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Астрономия",
+          "teacher": "Кунцевич И.В.",
+          "classroom": "Каб. 206"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "УП \"Делопроизводитель\"",
+          "teacher": "Кечко И.Л./Шарстук И.С.",
+          "classroom": "Каб. 304/409"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "УП \"Делопроизводитель\"",
+          "teacher": "Шарстук И.С./Кечко И.Л.",
+          "classroom": "Каб. 409/304"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "Ю21",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "ОИСиИД",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "ИГиП",
+          "teacher": "Турченко М.И.",
+          "classroom": "Каб. 311"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Астрономия",
+          "teacher": "Кунцевич И.В.",
+          "classroom": "Каб. 206"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "ИБГ",
+          "teacher": "Левина А.И.",
+          "classroom": "Каб. 301"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "Ю21",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "ИТ/Конст.право",
+          "teacher": "Абибок Е.А./Могдалева И.Н.",
+          "classroom": "Каб. 308/311"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Админ.право/ИТ",
+          "teacher": "Смолянин Е.М./Абибок Е.А.",
+          "classroom": "Каб. 405/308"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Астрономия",
+          "teacher": "Кунцевич И.В.",
+          "classroom": "Каб. 206"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Док.обеспечение",
+          "teacher": "Шунто И.Е.",
+          "classroom": "Каб. 307"
+        }
+      ]
+    }
+  ],
+  "Ю22": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "Ю22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "Ю22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "ИТ",
+          "teacher": "Кечко И.Л.",
+          "classroom": "Каб. 304"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Конст.право/ИТ",
+          "teacher": "Могдалева И.Н./Кечко И.Л.",
+          "classroom": "Каб. 301/304"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ОНСиИД",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "Ю22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Ибг",
+          "teacher": "Левина А.И.",
+          "classroom": "Каб. 301"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "ПРиОПД/Судоустройство",
+          "teacher": "Ерошенко Т.В./Корчако Т.А.",
+          "classroom": "Каб. 306/311"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ИТ/ПРиОПД",
+          "teacher": "Кечко И.Л./Ерошенко Т.В.",
+          "classroom": "Каб. 304/306"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "Ю22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Основы социализации",
+          "teacher": "Балтрук Е.Г.",
+          "classroom": "Каб. 301"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Охрана окружающей среды",
+          "teacher": "Свидунович О.В.",
+          "classroom": "Каб. 311"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Ибг",
+          "teacher": "Левина А.И.",
+          "classroom": "Каб. 301"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Введение в специальность",
+          "teacher": "Тюхлова Ю.В.",
+          "classroom": "Каб. 411"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "Ю22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "ОИСиИД",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Конст.право/ПРиОПД",
+          "teacher": "Могдалева И.Н./Ерошенко Т.В.",
+          "classroom": "Каб. 404/306"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ПРиОПД/Конст.право",
+          "teacher": "Ерошенко Т.В./Могдалева И.Н.",
+          "classroom": "Каб. 306/404"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "Ю22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "ИГиП",
+          "teacher": "Турченко М.И.",
+          "classroom": "Каб. 311"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "ОТП",
+          "teacher": "Жаворонкова Е.М.",
+          "classroom": "Каб. 305"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ИБГ",
+          "teacher": "Левина А.И.",
+          "classroom": "Каб. 301"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "УП \"Делопроизводитель\"",
+          "teacher": "Кечко И.Л./Шарстук И.С.",
+          "classroom": "Каб. 304/409"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "УП \"Делопроизводитель\"",
+          "teacher": "Шарстук И.С./Кечко И.Л.",
+          "classroom": "Каб. 409/406"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "Ю22",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "ОИСиИД",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Конст.право",
+          "teacher": "Могдалева И.Н.",
+          "classroom": "Каб. 311"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ПРиОПД",
+          "teacher": "Ерошенко Т.В.",
+          "classroom": "Каб. 306"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Ибг",
+          "teacher": "Левина А.И.",
+          "classroom": "Каб. 301"
+        }
+      ]
+    }
+  ],
+  "Ю23": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "Ю23",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "С/Х работы",
+          "teacher": "",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "Ю23",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Культура речи юриста",
+          "teacher": "Арестова О.В.",
+          "classroom": "Каб. 102"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "ОНСиИД",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ИТ",
+          "teacher": "Кечко И.Л.",
+          "classroom": "Каб. 304"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "Ю23",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "ПРиОПД",
+          "teacher": "Ерошенко Т.В.",
+          "classroom": "Каб. 306"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Ибг",
+          "teacher": "Левина А.И.",
+          "classroom": "Каб. 301"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Физическая культура",
+          "teacher": "Григорович А.Т.",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "Ю23",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Админ.право",
+          "teacher": "Смолянин Е.М.",
+          "classroom": "Каб. 306"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Ибг",
+          "teacher": "Левина А.И.",
+          "classroom": "Каб. 301"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Конст.право",
+          "teacher": "Могдалева И.Н.",
+          "classroom": "Каб. 405"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Культура речи юриста",
+          "teacher": "Арестова О.В.",
+          "classroom": "Каб. 102"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "Ю23",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "ИБГ",
+          "teacher": "Левина А.И.",
+          "classroom": "Каб. 301"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "ИБГ",
+          "teacher": "Левина А.И.",
+          "classroom": "Каб. 301"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ОТП",
+          "teacher": "Жаворонкова Е.М.",
+          "classroom": "Каб. 305"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "Ю23",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Введение в специальность",
+          "teacher": "Тюхлова Ю.В.",
+          "classroom": "Каб. 305"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "ОИСиИД",
+          "teacher": "Головач О.Ф.",
+          "classroom": "Каб. 406"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ИГиП",
+          "teacher": "Турченко М.И.",
+          "classroom": "Каб. 311"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Охрана окружающей среды",
+          "teacher": "Свидунович О.В.",
+          "classroom": "Каб. 411"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "Ю23",
+      "lessons": [
+        {
+          "order": 1,
+          "startTime": "8:00",
+          "endTime": "9:35",
+          "subject": "Охрана окружающей среды",
+          "teacher": "Свидунович О.В.",
+          "classroom": "Каб. 301"
+        },
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "ПРиОПД",
+          "teacher": "Ерошенко Т.В.",
+          "classroom": "Каб. 306"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Ибг",
+          "teacher": "Левина А.И.",
+          "classroom": "Каб. 301"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "УП \"Делопроизводитель\"",
+          "teacher": "Кечко И.Л./Шарстук И.С.",
+          "classroom": "Каб. 304/409"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "УП \"Делопроизводитель\"",
+          "teacher": "Шарстук И.С./Кечко И.Л.",
+          "classroom": "Каб. 409/304"
+        }
+      ]
+    }
+  ],
+  "Ю31": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "Ю31",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Уголовное право",
+          "teacher": "Витко В.В.",
+          "classroom": "Каб. 307"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Гражд.право/Угол.право",
+          "teacher": "Могдалева И.Н./Витко В.В.",
+          "classroom": "Каб. 311/307"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Угол.право/Гражд.право",
+          "teacher": "Витко В.В./Могдалева И.Н.",
+          "classroom": "Каб. 307/311"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Финансовое право",
+          "teacher": "Хритоненко В.В.",
+          "classroom": "Каб. 407"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "Ю31",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ЮСО/Гражда.право",
+          "teacher": "Жаворонкова Е.М./Могдалева И.Н.",
+          "classroom": "Каб. 305/301"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Гражда.процесс/Хоз.право",
+          "teacher": "Хритоненко В.В./Ерошенко Т.В.",
+          "classroom": "Каб. 405/306"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "ПНСОиОЗ",
+          "teacher": "Смахтин Е.М.",
+          "classroom": "Каб. 404"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Финансовое право",
+          "teacher": "Хритоненко В.В.",
+          "classroom": "Каб. 405"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "Ю31",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Уголовный процесс",
+          "teacher": "Серафимов В.В.",
+          "classroom": "Каб. 406"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Гражданское право",
+          "teacher": "Могдалева И.Н.",
+          "classroom": "Каб. 301"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Гражд.право/ПНСОиОЗ",
+          "teacher": "Могдалева И.Н./Смолянин Е.М.",
+          "classroom": "Каб. 301/407"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "Ю31",
+      "lessons": [
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Закупки",
+          "teacher": "Витко В.А.",
+          "classroom": "Каб. ДО"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Закупки",
+          "teacher": "Витко В.А.",
+          "classroom": "Каб. 307"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "М/нар.публ.право",
+          "teacher": "Турченко М.И.",
+          "classroom": "Каб. 311"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Налоговое право",
+          "teacher": "Хритоненко В.В.",
+          "classroom": "Каб. 306"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "Ю31",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "ПНСОиОЗ/ЮСО",
+          "teacher": "Смолянин Е.М./Жаворонкова Е.М.",
+          "classroom": "Каб. 301/305"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Хоз.право/Угол.право",
+          "teacher": "Ерошенко Т.В./Витко В.А.",
+          "classroom": "Каб. 306/301"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "М/нар.публ.право",
+          "teacher": "Турченко М.И.",
+          "classroom": "Каб. 306"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "Ю31",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Угол. право/Гражд.процесс",
+          "teacher": "Витко В.А./Хритоненко В.В.",
+          "classroom": "Каб. 307/405"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Хоз.право",
+          "teacher": "Ерошенко Т.В.",
+          "classroom": "Каб. 306"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "М/нар.публ.право",
+          "teacher": "Турченко М.И.",
+          "classroom": "Каб. 411"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "Ю31",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ПОДдНП",
+          "teacher": "Смолянин Е.М.",
+          "classroom": "Каб. 405"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Гражданское право",
+          "teacher": "Могдалева И.Н.",
+          "classroom": "Каб. 407"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Налоговое право",
+          "teacher": "Хритоненко В.В.",
+          "classroom": "Каб. 301"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "М/нар.публ.право/Налог.право",
+          "teacher": "Турченко М.И./Хритоненко В.В.",
+          "classroom": "Каб. 311/301"
+        }
+      ]
+    }
+  ],
+  "Ю32": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "Ю32",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Иностранный язык",
+          "teacher": "Шарстук И.С./Точило Т.С.",
+          "classroom": "Каб. 412/108"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Жил.право/Гражд.право",
+          "teacher": "Хритоненко В.В./Корчако Т.А.",
+          "classroom": "Каб. 407/301"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Гражд.право/ЮСО",
+          "teacher": "Корчако Т.А./Жаворонкова Е.М.",
+          "classroom": "Каб. 411/305"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Гражданский процесс",
+          "teacher": "Жаворонкова Е.М.",
+          "classroom": "Каб. 305"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "Ю32",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Финансовое право",
+          "teacher": "Хритоненко В.В.",
+          "classroom": "Каб. 405"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Гражда.право/Угол.право",
+          "teacher": "Корчако Т.А./Витко В.А.",
+          "classroom": "Каб. 311/307"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Угол.право/Хоз.право",
+          "teacher": "Витко В.А./Ерошенко Т.В.",
+          "classroom": "Каб. 307/306"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "ПОД/ПП",
+          "teacher": "Смахтин Е.М.",
+          "classroom": "Каб. 404"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "Ю32",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "ПНСОиОЗ/М/нар.публ.право",
+          "teacher": "Смолянин Е.М./Турченко М.И.",
+          "classroom": "Каб. 407/411"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Уголовное право",
+          "teacher": "Витко В.А.",
+          "classroom": "Каб. 306"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Физическая культура",
+          "teacher": "Пекленок А.Ф./Ясюк А.М.",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "Ю32",
+      "lessons": [
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Закупки",
+          "teacher": "Смолянин Е.М.",
+          "classroom": "Каб. ДО"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Закупки",
+          "teacher": "Смолянин Е.М.",
+          "classroom": "Каб. 14"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Налоговое право",
+          "teacher": "Хритоненко В.В.",
+          "classroom": "Каб. 306"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "М/нар.публ.право",
+          "teacher": "Турченко М.И.",
+          "classroom": "Каб. 401"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "Ю32",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Уголовный процесс",
+          "teacher": "Турченко М.И.",
+          "classroom": "Каб. 102"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "ПОДдНП",
+          "teacher": "Смолянин Е.М.",
+          "classroom": "Каб. 209"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Физическая культура",
+          "teacher": "Ясюк А.М./Пекленок А.Ф.",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "Ю32",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ПОДдНП",
+          "teacher": "Смолянин Е.М.",
+          "classroom": "Каб. 401"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "М/нар.публ.право/ПНСОиОЗ",
+          "teacher": "Турченко М.И./Смолянин Е.М.",
+          "classroom": "Каб. 412/408"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Гражданский процесс",
+          "teacher": "Жаворонкова Е.М.",
+          "classroom": "Каб. 305"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Хоз.право",
+          "teacher": "Ерошенко Т.В.",
+          "classroom": "Каб. 306"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "Ю32",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "М/нар.публ.право/Налог.право",
+          "teacher": "Турченко М.И./Хритоненко В.В.",
+          "classroom": "Каб. 311/14"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Хоз.право/М/нар.публ.право",
+          "teacher": "Ерошенко Т.В./Турченко М.И.",
+          "classroom": "Каб. 306/206"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Уголовный процесс",
+          "teacher": "Турченко М.И.",
+          "classroom": "Каб. 311"
+        }
+      ]
+    }
+  ],
+  "Ю33": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "Ю33",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Иностранный язык",
+          "teacher": "Гринкевич О.В./Медведская В.В.",
+          "classroom": "Каб. 408/101"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Охрана труда",
+          "teacher": "Шахновский Л.П.",
+          "classroom": "Каб. 14"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Жилищное право",
+          "teacher": "Хритоненко В.В.",
+          "classroom": "Каб. 407"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Уголовное право",
+          "teacher": "Витко В.В.",
+          "classroom": "Каб. 307"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "Ю33",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ПНСОиОЗ",
+          "teacher": "Смахтин Е.М.",
+          "classroom": "Каб. 404"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Гражданский процесс",
+          "teacher": "Жаворонкова Е.М.",
+          "classroom": "Каб. 305"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Уголовный процесс",
+          "teacher": "Турченко М.И.",
+          "classroom": "Каб. 311"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Уголовное право",
+          "teacher": "Витко В.А.",
+          "classroom": "Каб. 307"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "Ю33",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Гражданское право",
+          "teacher": "Корчако Т.А.",
+          "classroom": "Каб. 311"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Уголовное право",
+          "teacher": "Витко В.А.",
+          "classroom": "Каб. 307"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "ПНСОиОЗ",
+          "teacher": "Смолянин Е.М.",
+          "classroom": "Каб. 407"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "Ю33",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Налоговое право",
+          "teacher": "Хритоненко В.В.",
+          "classroom": "Каб. 13"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "ПОД/НП",
+          "teacher": "Смолянин Е.М.",
+          "classroom": "Каб. 209"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "ПОД/НП",
+          "teacher": "Смолянин Е.М.",
+          "classroom": "Каб. 209"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "М/нар.публ.право",
+          "teacher": "Турченко М.И.",
+          "classroom": "Каб. 307"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "Ю33",
+      "lessons": [
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Закупки",
+          "teacher": "Смолянин Е.М.",
+          "classroom": "Каб. ДО"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Закупки",
+          "teacher": "Смолянин Е.М.",
+          "classroom": "Каб. 304"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Физическая культура",
+          "teacher": "Ясюк А.М.",
+          "classroom": ""
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Уголовный процесс",
+          "teacher": "Турченко М.И.",
+          "classroom": "Каб. 311"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Уголовное право",
+          "teacher": "Витко В.А.",
+          "classroom": "Каб. 301"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "Ю33",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Уголовное право",
+          "teacher": "Витко В.А.",
+          "classroom": "Каб. 307"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "ПОДдНП",
+          "teacher": "Смолянин Е.М.",
+          "classroom": "Каб. 301"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Гражданский процесс",
+          "teacher": "Жаворонкова Е.М.",
+          "classroom": "Каб. 305"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "Ю33",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Уголовное право",
+          "teacher": "Витко В.А.",
+          "classroom": "Каб. 307"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "ПНСОиОЗ",
+          "teacher": "Смолянин Е.М.",
+          "classroom": "Каб. 113"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Хоз.право",
+          "teacher": "Ерошенко Т.В.",
+          "classroom": "Каб. 306"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "ПОДдНП",
+          "teacher": "Смолянин Е.М.",
+          "classroom": "Каб. 407"
+        }
+      ]
+    }
+  ],
+  "Ю34": [
+    {
+      "date": "2026-09-18",
+      "weekday": "Пятница",
+      "group": "Ю34",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "ЮСО",
+          "teacher": "Жаворонкова Е.М.",
+          "classroom": "Каб. 305"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "ЮСО",
+          "teacher": "Жаворонкова Е.М.",
+          "classroom": "Каб. 305"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Охрана труда",
+          "teacher": "Шахновский Л.П.",
+          "classroom": "Каб. 14"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Гражданское право",
+          "teacher": "Могдалева И.Н.",
+          "classroom": "Каб. 311"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-02",
+      "weekday": "Пятница",
+      "group": "Ю34",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Уголовное право",
+          "teacher": "Витко В.А.",
+          "classroom": "Каб. 307"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "ПНСОиОЗ",
+          "teacher": "Смахтин Е.М.",
+          "classroom": "Каб. 404"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Гражданский процесс",
+          "teacher": "Хритоненко В.В.",
+          "classroom": "Каб. 405"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "Уголовный процесс",
+          "teacher": "Турченко М.И.",
+          "classroom": "Каб. 311"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-05",
+      "weekday": "Понедельник",
+      "group": "Ю34",
+      "lessons": [
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Гражданское право",
+          "teacher": "Могдалева И.Н.",
+          "classroom": "Каб. 301"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Уголовный процесс",
+          "teacher": "Турченко М.И.",
+          "classroom": "Каб. 311"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "М/нар.публ.право",
+          "teacher": "Турченко М.И.",
+          "classroom": "Каб. 311"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-06",
+      "weekday": "Вторник",
+      "group": "Ю34",
+      "lessons": [
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Налоговое право",
+          "teacher": "Хритоненко В.В.",
+          "classroom": "Каб. 306"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "М/нар.публ.право",
+          "teacher": "Турченко М.И.",
+          "classroom": "Каб. 311"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Физическая культура",
+          "teacher": "Пекленок А.Ф.",
+          "classroom": ""
+        }
+      ]
+    },
+    {
+      "date": "2026-10-07",
+      "weekday": "Среда",
+      "group": "Ю34",
+      "lessons": [
+        {
+          "order": 2,
+          "startTime": "9:45",
+          "endTime": "11:20",
+          "subject": "Закупки",
+          "teacher": "Смолянин Е.М.",
+          "classroom": "Каб. ДО"
+        },
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Закупки",
+          "teacher": "Смолянин Е.М.",
+          "classroom": "Каб. 304"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Гражданское право",
+          "teacher": "Могдалева И.Н.",
+          "classroom": "Каб. 209"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Физическая культура",
+          "teacher": "Пекленок А.Ф.",
+          "classroom": ""
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "ЮСО",
+          "teacher": "Жаворонкова Е.М.",
+          "classroom": "Каб. 305"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-08",
+      "weekday": "Четверг",
+      "group": "Ю34",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Гражданское право",
+          "teacher": "Могдалева И.Н.",
+          "classroom": "Каб. 208"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Гражданское право",
+          "teacher": "Могдалева И.Н.",
+          "classroom": "Каб. 105"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "Хоз.право",
+          "teacher": "Ерошенко Т.В.",
+          "classroom": "Каб. 306"
+        },
+        {
+          "order": 6,
+          "startTime": "18:00",
+          "endTime": "19:35",
+          "subject": "ПОДдНП",
+          "teacher": "Смолянин Е.М.",
+          "classroom": "Каб. 301"
+        }
+      ]
+    },
+    {
+      "date": "2026-10-09",
+      "weekday": "Пятница",
+      "group": "Ю34",
+      "lessons": [
+        {
+          "order": 3,
+          "startTime": "11:40",
+          "endTime": "13:15",
+          "subject": "Гражданское право",
+          "teacher": "Могдалева И.Н.",
+          "classroom": "Каб. 407"
+        },
+        {
+          "order": 4,
+          "startTime": "14:20",
+          "endTime": "15:55",
+          "subject": "Налоговое право",
+          "teacher": "Хритоненко В.В.",
+          "classroom": "Каб. 14"
+        },
+        {
+          "order": 5,
+          "startTime": "16:15",
+          "endTime": "17:50",
+          "subject": "ПНСОиОЗ",
+          "teacher": "Смолянин Е.М.",
+          "classroom": "Каб. 407"
+        }
       ]
     }
   ]

@@ -34,7 +34,7 @@ final class FavoritesController extends ChangeNotifier {
 
   List<Favorite> items = const [];
   Map<String, List<DaySchedule>> weeks = const {};
-  DateTime weekStart = DateTime(2025, 11, 3);
+  DateTime weekStart = DateTime(2026, 10, 5);
   bool loading = false;
   String? error;
   bool weekMode;
